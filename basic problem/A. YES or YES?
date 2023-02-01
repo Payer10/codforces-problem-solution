@@ -1,0 +1,6 @@
+for i in range(int(input())):
+    a=input()
+    if(a=="YES" or a=="yES" or a=="yeS" or a=="yes" or a=="YEs" or a=="Yes" or a=="yEs" or a=="YeS"):
+        print("YES")
+    else:
+        print("NO")
